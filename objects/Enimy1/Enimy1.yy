@@ -31,8 +31,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "Enimy_spr",
-    "path": "sprites/Enimy_spr/Enimy_spr.yy",
+    "name": "Enimy1_spr",
+    "path": "sprites/Enimy1_spr/Enimy1_spr.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -38,7 +38,7 @@
     {"id":{"name":"Start_BTN","path":"sprites/Start_BTN/Start_BTN.yy",},},
     {"id":{"name":"Tower_spr","path":"sprites/Tower_spr/Tower_spr.yy",},},
     {"id":{"name":"exit_button","path":"objects/exit_button/exit_button.yy",},},
-    {"id":{"name":"Enimy_spr","path":"sprites/Enimy_spr/Enimy_spr.yy",},},
+    {"id":{"name":"Enimy1_spr","path":"sprites/Enimy1_spr/Enimy1_spr.yy",},},
     {"id":{"name":"Exit_BTN","path":"sprites/Exit_BTN/Exit_BTN.yy",},},
     {"id":{"name":"Info_button","path":"objects/Info_button/Info_button.yy",},},
     {"id":{"name":"Enimy1","path":"objects/Enimy1/Enimy1.yy",},},
