@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "settings_button",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
-  ],
+  "name": "Vellocity",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Settings_BTN",
-    "path": "sprites/Settings_BTN/Settings_BTN.yy",
+    "name": "Veloccity_spr",
+    "path": "sprites/Veloccity_spr/Veloccity_spr.yy",
   },
   "spriteMaskId": null,
   "visible": true,
