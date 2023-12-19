@@ -60,12 +60,14 @@
     {"id":{"name":"Wave","path":"objects/Wave/Wave.yy",},},
     {"id":{"name":"Info","path":"rooms/Info/Info.yy",},},
     {"id":{"name":"Settings_BTN","path":"sprites/Settings_BTN/Settings_BTN.yy",},},
+    {"id":{"name":"Principal","path":"rooms/Principal/Principal.yy",},},
     {"id":{"name":"Start","path":"rooms/Start/Start.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
     {"roomId":{"name":"Settings","path":"rooms/Settings/Settings.yy",},},
     {"roomId":{"name":"Info","path":"rooms/Info/Info.yy",},},
+    {"roomId":{"name":"Principal","path":"rooms/Principal/Principal.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

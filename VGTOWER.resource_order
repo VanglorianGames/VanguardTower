@@ -40,7 +40,7 @@
     {"name":"Upgrades","order":7,"path":"objects/Upgrades/Upgrades.yy",},
     {"name":"Wave","order":8,"path":"objects/Wave/Wave.yy",},
     {"name":"Info","order":3,"path":"rooms/Info/Info.yy",},
-    {"name":"Principal","order":1,"path":"rooms/Principal/Principal.yy",},
     {"name":"Settings_BTN","order":1,"path":"sprites/Settings_BTN/Settings_BTN.yy",},
+    {"name":"Principal","order":4,"path":"rooms/Principal/Principal.yy",},
   ],
 }
