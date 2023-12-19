@@ -32,6 +32,7 @@
     {"name":"Info_button","order":2,"path":"objects/Info_button/Info_button.yy",},
     {"name":"Enimy1","order":6,"path":"objects/Enimy1/Enimy1.yy",},
     {"name":"Tower","order":4,"path":"objects/Tower/Tower.yy",},
+    {"name":"click","order":1,"path":"sounds/click/click.yy",},
     {"name":"settings_button","order":3,"path":"objects/settings_button/settings_button.yy",},
     {"name":"Tiro","order":5,"path":"objects/Tiro/Tiro.yy",},
     {"name":"Vellocity","order":10,"path":"objects/Vellocity/Vellocity.yy",},
