@@ -16,5 +16,5 @@ if limite_s == 0{
 }
 
 if !instance_exists(Enimy1){
-	limite = false	
+	limite = false
 }
