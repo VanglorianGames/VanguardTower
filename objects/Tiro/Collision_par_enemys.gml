@@ -1,2 +1,2 @@
-other.vida -= Tower.dano
+other.vida -= global.dano;
 instance_destroy()

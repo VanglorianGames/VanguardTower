@@ -1,6 +1,6 @@
 dir = point_direction(x, y, Tower.x, Tower.y)
-hspd = lengthdir_x(spd, dir)
-vspd = lengthdir_y(spd, dir)
+hspd = lengthdir_x(global.spd, dir)
+vspd = lengthdir_y(global.spd, dir)
 
 x+= hspd
 y+= vspd

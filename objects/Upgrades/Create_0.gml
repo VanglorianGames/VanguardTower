@@ -1,0 +1,1 @@
+global.dano=1;
