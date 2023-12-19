@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Enimy1",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,},
-  ],
+  "name": "Vellocity",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Enimy1_spr",
-    "path": "sprites/Enimy1_spr/Enimy1_spr.yy",
+    "name": "Veloccity_spr",
+    "path": "sprites/Veloccity_spr/Veloccity_spr.yy",
   },
   "spriteMaskId": null,
   "visible": true,
