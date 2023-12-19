@@ -38,6 +38,7 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"ColisorTiro","path":"sprites/ColisorTiro/ColisorTiro.yy",},},
     {"id":{"name":"Power_spr","path":"sprites/Power_spr/Power_spr.yy",},},
     {"id":{"name":"Info_BTN","path":"sprites/Info_BTN/Info_BTN.yy",},},
     {"id":{"name":"Start_BTN","path":"sprites/Start_BTN/Start_BTN.yy",},},
@@ -51,6 +52,7 @@
     {"id":{"name":"Enemy3_spr","path":"sprites/Enemy3_spr/Enemy3_spr.yy",},},
     {"id":{"name":"par_enemys","path":"objects/par_enemys/par_enemys.yy",},},
     {"id":{"name":"exit_button","path":"objects/exit_button/exit_button.yy",},},
+    {"id":{"name":"ColisorBala","path":"objects/ColisorBala/ColisorBala.yy",},},
     {"id":{"name":"Background_wave","path":"sprites/Background_wave/Background_wave.yy",},},
     {"id":{"name":"Enimy1_spr","path":"sprites/Enimy1_spr/Enimy1_spr.yy",},},
     {"id":{"name":"Veloccity_spr","path":"sprites/Veloccity_spr/Veloccity_spr.yy",},},
