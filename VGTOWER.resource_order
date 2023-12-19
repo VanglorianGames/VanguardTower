@@ -16,5 +16,13 @@
     {"name":"Sons","order":3,"path":"folders/Sons.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Info_BTN","order":3,"path":"sprites/Info_BTN/Info_BTN.yy",},
+    {"name":"Start_BTN","order":1,"path":"sprites/Start_BTN/Start_BTN.yy",},
+    {"name":"exit_button","order":1,"path":"objects/exit_button/exit_button.yy",},
+    {"name":"Exit_BTN","order":5,"path":"sprites/Exit_BTN/Exit_BTN.yy",},
+    {"name":"Shop_BTN","order":4,"path":"sprites/Shop_BTN/Shop_BTN.yy",},
+    {"name":"Principal","order":1,"path":"rooms/Principal/Principal.yy",},
+    {"name":"Settings_BTN","order":2,"path":"sprites/Settings_BTN/Settings_BTN.yy",},
+  ],
 }

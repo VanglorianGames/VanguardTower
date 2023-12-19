@@ -34,11 +34,20 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"Info_BTN","path":"sprites/Info_BTN/Info_BTN.yy",},},
+    {"id":{"name":"Start_BTN","path":"sprites/Start_BTN/Start_BTN.yy",},},
+    {"id":{"name":"exit_button","path":"objects/exit_button/exit_button.yy",},},
+    {"id":{"name":"Exit_BTN","path":"sprites/Exit_BTN/Exit_BTN.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"main_button","path":"objects/main_button/main_button.yy",},},
+    {"id":{"name":"Shop_BTN","path":"sprites/Shop_BTN/Shop_BTN.yy",},},
+    {"id":{"name":"Principal","path":"rooms/Principal/Principal.yy",},},
+    {"id":{"name":"Settings_BTN","path":"sprites/Settings_BTN/Settings_BTN.yy",},},
+    {"id":{"name":"Start","path":"rooms/Start/Start.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Start","path":"rooms/Start/Start.yy",},},
+    {"roomId":{"name":"Principal","path":"rooms/Principal/Principal.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
