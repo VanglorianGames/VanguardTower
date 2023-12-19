@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "Enemys",
+    "path": "folders/Objetos/Enemys.yy",
   },
   "parentObjectId": {
     "name": "par_enemys",
