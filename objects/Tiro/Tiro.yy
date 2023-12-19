@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "Tiro",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Tiro_spr",
-    "path": "sprites/Tiro_spr/Tiro_spr.yy",
+    "name": "tiro_spr",
+    "path": "sprites/tiro_spr/tiro_spr.yy",
   },
   "spriteMaskId": null,
   "visible": true,

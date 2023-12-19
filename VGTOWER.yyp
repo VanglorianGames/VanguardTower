@@ -36,7 +36,9 @@
   "resources": [
     {"id":{"name":"Info_BTN","path":"sprites/Info_BTN/Info_BTN.yy",},},
     {"id":{"name":"Start_BTN","path":"sprites/Start_BTN/Start_BTN.yy",},},
+    {"id":{"name":"BackGround","path":"sprites/BackGround/BackGround.yy",},},
     {"id":{"name":"Tower_spr","path":"sprites/Tower_spr/Tower_spr.yy",},},
+    {"id":{"name":"tiro_spr","path":"sprites/tiro_spr/tiro_spr.yy",},},
     {"id":{"name":"exit_button","path":"objects/exit_button/exit_button.yy",},},
     {"id":{"name":"Enimy1_spr","path":"sprites/Enimy1_spr/Enimy1_spr.yy",},},
     {"id":{"name":"Exit_BTN","path":"sprites/Exit_BTN/Exit_BTN.yy",},},
@@ -45,7 +47,6 @@
     {"id":{"name":"Tower","path":"objects/Tower/Tower.yy",},},
     {"id":{"name":"settings_button","path":"objects/settings_button/settings_button.yy",},},
     {"id":{"name":"Tiro","path":"objects/Tiro/Tiro.yy",},},
-    {"id":{"name":"Tiro_spr","path":"sprites/Tiro_spr/Tiro_spr.yy",},},
     {"id":{"name":"main_button","path":"objects/main_button/main_button.yy",},},
     {"id":{"name":"Shop_BTN","path":"sprites/Shop_BTN/Shop_BTN.yy",},},
     {"id":{"name":"Principal","path":"rooms/Principal/Principal.yy",},},
