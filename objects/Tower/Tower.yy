@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "exit_button",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":13,"isDnD":false,},
-  ],
+  "name": "Tower",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Exit_BTN",
-    "path": "sprites/Exit_BTN/Exit_BTN.yy",
+    "name": "Tower_spr",
+    "path": "sprites/Tower_spr/Tower_spr.yy",
   },
   "spriteMaskId": null,
   "visible": true,

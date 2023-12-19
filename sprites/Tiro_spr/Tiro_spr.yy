@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite1",
-  "bbox_bottom": 63,
-  "bbox_left": 0,
-  "bbox_right": 63,
-  "bbox_top": 0,
+  "name": "Tiro_spr",
+  "bbox_bottom": 47,
+  "bbox_left": 17,
+  "bbox_right": 47,
+  "bbox_top": 17,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d2ebe7ab-5eae-4642-884c-5e30511a91de",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6b13a391-e2a3-47ad-b41f-77ee5ddadd42",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 64,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4d929b90-96e3-4256-bd2b-767f959aadae","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a21b82d5-4a06-4fea-8be7-1b94c354cc70","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite1",
+    "name": "Tiro_spr",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d2ebe7ab-5eae-4642-884c-5e30511a91de","path":"sprites/Sprite1/Sprite1.yy",},},},"Disabled":false,"id":"6356a665-679a-4526-be21-1b2fe84bf3b6","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6b13a391-e2a3-47ad-b41f-77ee5ddadd42","path":"sprites/Tiro_spr/Tiro_spr.yy",},},},"Disabled":false,"id":"8ad58dd5-98da-4bf8-8ad6-7dacfe002c7a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
