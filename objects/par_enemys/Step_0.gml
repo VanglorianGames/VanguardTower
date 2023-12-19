@@ -1,4 +1,3 @@
-
 dir = point_direction(x, y, Tower.x, Tower.y)
 hspd = lengthdir_x(spd, dir)
 vspd = lengthdir_y(spd, dir)
@@ -9,5 +8,5 @@ y+= vspd
 
 
 if vida <= 0{
-	instance_destroy()	
+    instance_destroy()
 }

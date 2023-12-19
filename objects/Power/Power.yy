@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "Upgrades",
+    "path": "folders/Objetos/Buttons/Upgrades.yy",
   },
   "parentObjectId": null,
   "persistent": false,

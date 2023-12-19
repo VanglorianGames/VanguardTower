@@ -7,7 +7,7 @@ var _enemy = instance_nearest(Tower.x, Tower.y, Enimy1)
 
 if instance_exists(Enimy1){
 	if (timer >= shot_delay) {
-		var bullet_instance = instance_create_layer(Tower.x, Tower.y, "Tower",Tiro);
+		var bullet_instance = instance_create_layer(Tower.x, Tower.y, "Tiro",Tiro);
 		bullet_instance.direction = point_direction(Tower.x, Tower.y, _enemy.x, _enemy.y);
 		bullet_instance.speed = 10; 
 		bullet_instance.visible = true;
