@@ -1,0 +1,1 @@
+global.delay-=0.05;
