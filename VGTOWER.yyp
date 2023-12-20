@@ -32,7 +32,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
   ],
   "IncludedFiles": [
-    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"fonte","CopyToMask":-1,"filePath":"datafiles","parent":{"name":"Caminhos","path":"folders/Caminhos.yy",},},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Ghibo Talk.otf","CopyToMask":-1,"filePath":"datafiles",},
   ],
   "isEcma": false,
   "LibraryEmitters": [],
