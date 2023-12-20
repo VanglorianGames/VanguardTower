@@ -9,4 +9,5 @@ y+= vspd
 
 if vida <= 0{
     instance_destroy()
+	global.score++;
 }
