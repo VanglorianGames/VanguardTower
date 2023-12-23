@@ -5,4 +5,4 @@ var dano;
 try{
 	dano = global.dano;
 }
-global.spd = 0.3
+global.spd = 1.2

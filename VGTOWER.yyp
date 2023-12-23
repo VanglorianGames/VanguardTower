@@ -70,6 +70,7 @@
     {"id":{"name":"Tiro","path":"objects/Tiro/Tiro.yy",},},
     {"id":{"name":"Vellocity","path":"objects/Vellocity/Vellocity.yy",},},
     {"id":{"name":"main_button","path":"objects/main_button/main_button.yy",},},
+    {"id":{"name":"Menu_BTN","path":"sprites/Menu_BTN/Menu_BTN.yy",},},
     {"id":{"name":"Attackspeed_spr","path":"sprites/Attackspeed_spr/Attackspeed_spr.yy",},},
     {"id":{"name":"Shop_BTN","path":"sprites/Shop_BTN/Shop_BTN.yy",},},
     {"id":{"name":"SpdAtk","path":"objects/SpdAtk/SpdAtk.yy",},},

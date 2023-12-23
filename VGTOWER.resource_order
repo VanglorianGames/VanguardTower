@@ -43,6 +43,7 @@
     {"name":"Tiro","order":1,"path":"objects/Tiro/Tiro.yy",},
     {"name":"Vellocity","order":1,"path":"objects/Vellocity/Vellocity.yy",},
     {"name":"main_button","order":2,"path":"objects/main_button/main_button.yy",},
+    {"name":"Menu_BTN","order":17,"path":"sprites/Menu_BTN/Menu_BTN.yy",},
     {"name":"Attackspeed_spr","order":15,"path":"sprites/Attackspeed_spr/Attackspeed_spr.yy",},
     {"name":"Shop_BTN","order":3,"path":"sprites/Shop_BTN/Shop_BTN.yy",},
     {"name":"SpdAtk","order":4,"path":"objects/SpdAtk/SpdAtk.yy",},

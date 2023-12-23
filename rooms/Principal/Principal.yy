@@ -25,7 +25,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_22E43A00","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"ColisorBala","path":"objects/ColisorBala/ColisorBala.yy",},"properties":[],"rotation":0.0,"scaleX":45.312496,"scaleY":1.0,"x":-38.0,"y":813.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2B1040CE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"ColisorBala","path":"objects/ColisorBala/ColisorBala.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":28.46875,"x":1408.0,"y":-64.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1DBE8C4B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"ColisorBala","path":"objects/ColisorBala/ColisorBala.yy",},"properties":[],"rotation":0.0,"scaleX":45.312496,"scaleY":1.0,"x":-37.992676,"y":-66.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4E042AE0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Upgrades","path":"objects/Upgrades/Upgrades.yy",},"properties":[],"rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":1280.0,"y":704.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4E042AE0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Upgrades","path":"objects/Upgrades/Upgrades.yy",},"properties":[],"rotation":0.0,"scaleX":5.5,"scaleY":5.5,"x":1248.0,"y":704.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_276FD7A5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Wave","path":"objects/Wave/Wave.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":288.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Enemys","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
@@ -54,7 +54,7 @@
   },
   "sequenceId": null,
   "views": [
-    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":true,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
@@ -66,7 +66,7 @@
   "viewSettings": {
     "clearDisplayBuffer": true,
     "clearViewBackground": false,
-    "enableViews": false,
+    "enableViews": true,
     "inheritViewSettings": false,
   },
   "volume": 1.0,
