@@ -30,6 +30,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sons","folderPath":"folders/Sons.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Textos","folderPath":"folders/Objetos/Textos.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Ghibo Talk.otf","CopyToMask":-1,"filePath":"datafiles",},
@@ -58,6 +59,7 @@
     {"id":{"name":"ColisorBala","path":"objects/ColisorBala/ColisorBala.yy",},},
     {"id":{"name":"Background_wave","path":"sprites/Background_wave/Background_wave.yy",},},
     {"id":{"name":"Enimy1_spr","path":"sprites/Enimy1_spr/Enimy1_spr.yy",},},
+    {"id":{"name":"Info_txt","path":"objects/Info_txt/Info_txt.yy",},},
     {"id":{"name":"Veloccity_spr","path":"sprites/Veloccity_spr/Veloccity_spr.yy",},},
     {"id":{"name":"Enemy2","path":"objects/Enemy2/Enemy2.yy",},},
     {"id":{"name":"Multishot","path":"objects/Multishot/Multishot.yy",},},

@@ -8,5 +8,6 @@ else{
 	instance_destroy(Power);
 	instance_destroy(Vellocity);
 	instance_destroy(SpdAtk);
+	instance_destroy(Multishot);
 }
 vez=!vez;
